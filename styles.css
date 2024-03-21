@@ -1,1 +1,11 @@
 /*  your css code here. If applicable */
+img{
+  display: block;
+  margin-left: auto;
+  margin-right: auto;
+  width: 50%;
+}
+p{
+	text-align: center;
+	background-color: yellow;
+}
